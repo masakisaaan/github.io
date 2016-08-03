@@ -8,6 +8,7 @@ html,body{
 }
 body{
   background-color: #fbfcfc;
+  min-width:960px; /*右側の余白ができる問題を修正する*/
 }
 #wrap{
      width: 100%;
